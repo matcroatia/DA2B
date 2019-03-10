@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\Debug\Assignment 2B Amb Code.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Assignment 2B Amb Code.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Assignment 2B Amb Code.map</FILE>
+  <FILE>Assignment 2B Amb Code.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>16</LINE></MAIN>
+  <EX0_ISR><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>31</LINE></EX0_ISR>
+  <HERE><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>29</LINE></HERE>
+  <DELAY_1s><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>53</LINE></DELAY_1s>
+  <DELAY_100ms><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>64</LINE></DELAY_100ms>
+  <DELAY_5ms><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>74</LINE></DELAY_5ms>
+  <DELAY><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>52</LINE></DELAY>
+  <DELAY_1S1><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>56</LINE></DELAY_1S1>
+  <DELAY_100MS1><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>67</LINE></DELAY_100MS1>
+  <DELAY_1MS><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>83</LINE></DELAY_1MS>
+  <DELAY_1MS1><FILE>C:\Users\oit\Desktop\Assignment 2B Amb Code\Assignment 2B Amb Code\main.asm</FILE><LINE>86</LINE></DELAY_1MS1>
+ </LABELS>
+</ASSEMBLER_INFO>
